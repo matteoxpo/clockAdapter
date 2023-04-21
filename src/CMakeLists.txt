@@ -8,8 +8,6 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 add_executable(Executable.out main.cpp)
 
-target_link_libraries(Executable.out glut)
-
 target_include_directories(
     Executable.out
     PRIVATE
