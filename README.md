@@ -1,1 +1,1 @@
-# C/C++ template
+# analog clock adapter to digital
