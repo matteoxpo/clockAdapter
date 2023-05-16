@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblib_adaptee.a CMakeFiles/lib_adaptee.dir/AnalogClock.cpp.o CMakeFiles/lib_adaptee.dir/AnalogTimeParams.cpp.o
+/usr/bin/ranlib liblib_adaptee.a

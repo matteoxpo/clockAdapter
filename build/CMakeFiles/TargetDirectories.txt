@@ -1,0 +1,11 @@
+/home/xpomin/Prog/watchAdapter/build/CMakeFiles/edit_cache.dir
+/home/xpomin/Prog/watchAdapter/build/CMakeFiles/rebuild_cache.dir
+/home/xpomin/Prog/watchAdapter/build/adapter_lib/CMakeFiles/DigitalClockAdapter.dir
+/home/xpomin/Prog/watchAdapter/build/adapter_lib/CMakeFiles/edit_cache.dir
+/home/xpomin/Prog/watchAdapter/build/adapter_lib/CMakeFiles/rebuild_cache.dir
+/home/xpomin/Prog/watchAdapter/build/adaptee_lib/CMakeFiles/AnalogClock.dir
+/home/xpomin/Prog/watchAdapter/build/adaptee_lib/CMakeFiles/edit_cache.dir
+/home/xpomin/Prog/watchAdapter/build/adaptee_lib/CMakeFiles/rebuild_cache.dir
+/home/xpomin/Prog/watchAdapter/build/src/CMakeFiles/Executable.out.dir
+/home/xpomin/Prog/watchAdapter/build/src/CMakeFiles/edit_cache.dir
+/home/xpomin/Prog/watchAdapter/build/src/CMakeFiles/rebuild_cache.dir

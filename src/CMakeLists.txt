@@ -11,13 +11,26 @@ add_executable(Executable.out main.cpp)
 target_include_directories(
     Executable.out
     PRIVATE
-    ${CMAKE_CURRENT_SOURCE_DIR}/../lib
+    ${CMAKE_CURRENT_SOURCE_DIR}/../adaptee_lib
 )
 
 target_link_directories(
     Executable.out   
     PRIVATE
-    ${CMAKE_CURRENT_SOURCE_DIR}/../lib
+    ${CMAKE_CURRENT_SOURCE_DIR}/../adaptee_lib
 )
 
-target_link_libraries(Executable.out lib)
+target_include_directories(
+    Executable.out
+    PRIVATE
+    ${CMAKE_CURRENT_SOURCE_DIR}/../adaptee_lib
+)
+
+target_link_directories(
+    Executable.out   
+    PRIVATE
+    ${CMAKE_CURRENT_SOURCE_DIR}/../adaptee_lib
+)
+
+target_link_libraries(Executable.out AnalogClock)
+target_link_libraries(Executable.out DigitalClockAdapter)

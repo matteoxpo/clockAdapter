@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDigitalClockAdapter.a CMakeFiles/DigitalClockAdapter.dir/DigitalClockAdapter.cpp.o CMakeFiles/DigitalClockAdapter.dir/Time.cpp.o
+/usr/bin/ranlib libDigitalClockAdapter.a

@@ -13,6 +13,10 @@ set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
-add_subdirectory(lib)
-include_directories(lib)
+add_subdirectory(adapter_lib)
+include_directories(adapter_lib)
+
+add_subdirectory(adaptee_lib)
+include_directories(adaptee_lib)
+
 add_subdirectory(src)

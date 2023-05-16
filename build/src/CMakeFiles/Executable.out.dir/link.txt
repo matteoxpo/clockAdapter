@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Executable.out.dir/main.cpp.o -o Executable.out   -L/home/xpomin/Prog/watchAdapter/src/../adaptee_lib  -Wl,-rpath,/home/xpomin/Prog/watchAdapter/src/../adaptee_lib ../adaptee_lib/libAnalogClock.a ../adapter_lib/libDigitalClockAdapter.a ../adaptee_lib/libAnalogClock.a 

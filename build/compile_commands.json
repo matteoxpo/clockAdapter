@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/xpomin/Prog/watchAdapter/build/adapter_lib",
+  "command": "/usr/bin/g++  -I/home/xpomin/Prog/watchAdapter/adapter_lib/../adaptee_lib -g -std=gnu++20 -o CMakeFiles/DigitalClockAdapter.dir/DigitalClockAdapter.cpp.o -c /home/xpomin/Prog/watchAdapter/adapter_lib/DigitalClockAdapter.cpp",
+  "file": "/home/xpomin/Prog/watchAdapter/adapter_lib/DigitalClockAdapter.cpp"
+},
+{
+  "directory": "/home/xpomin/Prog/watchAdapter/build/adapter_lib",
+  "command": "/usr/bin/g++  -I/home/xpomin/Prog/watchAdapter/adapter_lib/../adaptee_lib -g -std=gnu++20 -o CMakeFiles/DigitalClockAdapter.dir/Time.cpp.o -c /home/xpomin/Prog/watchAdapter/adapter_lib/Time.cpp",
+  "file": "/home/xpomin/Prog/watchAdapter/adapter_lib/Time.cpp"
+},
+{
+  "directory": "/home/xpomin/Prog/watchAdapter/build/adaptee_lib",
+  "command": "/usr/bin/g++  -I/home/xpomin/Prog/watchAdapter/adapter_lib -g -std=gnu++20 -o CMakeFiles/AnalogClock.dir/AnalogClock.cpp.o -c /home/xpomin/Prog/watchAdapter/adaptee_lib/AnalogClock.cpp",
+  "file": "/home/xpomin/Prog/watchAdapter/adaptee_lib/AnalogClock.cpp"
+},
+{
+  "directory": "/home/xpomin/Prog/watchAdapter/build/adaptee_lib",
+  "command": "/usr/bin/g++  -I/home/xpomin/Prog/watchAdapter/adapter_lib -g -std=gnu++20 -o CMakeFiles/AnalogClock.dir/AnalogTimeParams.cpp.o -c /home/xpomin/Prog/watchAdapter/adaptee_lib/AnalogTimeParams.cpp",
+  "file": "/home/xpomin/Prog/watchAdapter/adaptee_lib/AnalogTimeParams.cpp"
+},
+{
+  "directory": "/home/xpomin/Prog/watchAdapter/build/src",
+  "command": "/usr/bin/g++  -I/home/xpomin/Prog/watchAdapter/adapter_lib -I/home/xpomin/Prog/watchAdapter/adaptee_lib -I/home/xpomin/Prog/watchAdapter/src/../adaptee_lib -g -std=gnu++20 -o CMakeFiles/Executable.out.dir/main.cpp.o -c /home/xpomin/Prog/watchAdapter/src/main.cpp",
+  "file": "/home/xpomin/Prog/watchAdapter/src/main.cpp"
+}
+]
